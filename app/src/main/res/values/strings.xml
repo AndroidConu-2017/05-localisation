@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Localisation</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world">Default: Hello world!</string>
+    <string name="instructions">Instructions: This app has \"hello world\" strings and app name for English, French, French Canada, Italian, Russian(Pусский), German(Deutsche), and Spanish everything else defaults to English.
+         Change the language through Launcher->settings->language.  (These instructions are only in English.) </string>
+    
+</resources>
